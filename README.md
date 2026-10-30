@@ -23,10 +23,10 @@ The speaker gives the response to the user.
 
 # AI-ENABLED SMART SPEAKERS
 
-Amazon Echo – Alexa
-Google Nest – Google Assistant
-Apple HomePod – Siri
-Samsung SmartThings-compatible speakers
+1.Amazon Echo – Alexa
+2.Google Nest – Google Assistant
+3.Apple HomePod – Siri
+4.Samsung SmartThings-compatible speakers
 
 # RESULT
 
