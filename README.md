@@ -17,6 +17,7 @@ A response is generated.
 Text-to-Speech (TTS) converts the response into voice.
 The speaker gives the response to the user.
 
+
 # SAMPLE IMAGE – AI-ENABLED SMART SPEAKER
 <img width="672" height="269" alt="image" src="https://github.com/user-attachments/assets/252b8256-d039-4e54-af8c-a3658885097b" />
 <img width="561" height="683" alt="image" src="https://github.com/user-attachments/assets/de2a7bc9-5f29-4b91-9295-0dedd595eede" />
